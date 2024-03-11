@@ -1,4 +1,4 @@
 # college-demo
 This is my Git Repository.
 <br>
-Author - Khushboo Yelne
+Author - Khushboo Yelne(College)
